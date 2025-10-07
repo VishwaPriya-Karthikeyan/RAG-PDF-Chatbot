@@ -1,0 +1,20 @@
+# Python cache and environment
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+db.sqlite3
+
+# Virtual environments
+myenv/
+venv/
+.env/
+
+# PDFs and uploads (optional)
+*.pdf
+uploads/
+data/
+
+# System files
+.DS_Store
+Thumbs.db

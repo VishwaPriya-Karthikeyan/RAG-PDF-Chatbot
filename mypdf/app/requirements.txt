@@ -1,0 +1,42 @@
+# Core Framework
+streamlit==1.28.0
+
+# LangChain & AI Components
+langchain==0.0.346
+langchain-community==0.0.10
+langchain-core==0.1.16
+
+# Vector Database
+chromadb==0.4.15
+
+# Embeddings & Models
+sentence-transformers==2.2.2
+transformers==4.35.0
+torch==2.0.1
+accelerate==0.24.1
+
+# PDF Processing
+pypdf==3.17.0
+pdf2image==1.16.3
+pillow==10.0.1
+
+# Table Extraction
+tabula-py==2.7.0
+pandas==2.0.3
+numpy==1.24.3
+
+# Voice Processing
+speechrecognition==3.10.0
+pyttsx3==2.90
+pyaudio==0.2.11
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.65.0
+requests==2.31.0
+urllib3==1.26.16
+
+# Development
+black==23.3.0
+flake8==6.0.0
+fpdf

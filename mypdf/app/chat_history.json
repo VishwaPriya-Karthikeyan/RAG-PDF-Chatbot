@@ -1,0 +1,186 @@
+[
+  {
+    "role": "user",
+    "content": "what is data"
+  },
+  {
+    "role": "assistant",
+    "content": "structured data\n\n---\n**📚 Source:** UNIT-1"
+  },
+  {
+    "role": "user",
+    "content": "in which year does The word \"Artificial Intelligence\" first adopted by American\nComputer scientist John McCarthy at the Dartmouth Conference."
+  },
+  {
+    "role": "assistant",
+    "content": "2005\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "the birth of artificial intelligence "
+  },
+  {
+    "role": "assistant",
+    "content": "4.\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "in which year does the word \"Artificial Intelligence\" first adopted by American\nComputer scientist John McCarthy at the Dartmouth Conference"
+  },
+  {
+    "role": "assistant",
+    "content": "o Year 1956:  The word \"Artificial Intelligence\" first adopted by American \nComputer  scientist John McCarthy at the Dartmouth Conference\n\n---\n**📚 Source:** UNIT-1"
+  },
+  {
+    "role": "user",
+    "content": "what is called data?"
+  },
+  {
+    "role": "assistant",
+    "content": "When the best aspects of a data warehouse and data lake are merged into one data management solution it is \ncalled a data lakehouse.\n\n---\n**📚 Source:** 2024-wttc-introduction-to-ai"
+  },
+  {
+    "role": "user",
+    "content": "what happened in the year 1955"
+  },
+  {
+    "role": "assistant",
+    "content": "1955 was the year that the United States entered the war.\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "what happened to the birth of artficial intelligence in the year1955"
+  },
+  {
+    "role": "assistant",
+    "content": "INTRODUCTION TO AI\nWorld Travel & Tourism Council4\n < Contents  |“…It happened gradually, then suddenly…”\nThis famous quote from Ernest Hemingway’s 1926 novel, The Sun Also Rises could be used to describe some of \nthe world’s most profound technological changes\n\n---\n**📚 Source:** 2024-wttc-introduction-to-ai"
+  },
+  {
+    "role": "user",
+    "content": "what is the name of the student whose reg no is 311315251153"
+  },
+  {
+    "role": "assistant",
+    "content": "Cumulative Grade Point Average\n\n---\n**📚 Source:** ug_aff_2020"
+  },
+  {
+    "role": "user",
+    "content": "name of 311315251153"
+  },
+  {
+    "role": "assistant",
+    "content": "Bag End\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "what is the cgpa of nandhita s?"
+  },
+  {
+    "role": "assistant",
+    "content": "CGPA-Cumulative Grade Point Average ,FC - First Class, FWD - First Class with DistinctionB.Tech.\n\n---\n**📚 Source:** ug_aff_2020"
+  },
+  {
+    "role": "user",
+    "content": "the name of the reg number 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Bag End\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "details of the 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** DSML"
+  },
+  {
+    "role": "user",
+    "content": "the name of reg number 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "which model is trained with predefined and labelled data"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "the name of the reg number 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "What is the CGPA of Nandita S?"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "what is data"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "What is the CGPA of Nandita S?"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "what is the name of reg number 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "explain supervised learning"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I don't have enough context from the PDF.\n\n---\n**📚 Source:** N/A"
+  },
+  {
+    "role": "user",
+    "content": "what is the name of reg number 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "311315251097\n\n---\n**📚 Source:** ug_aff_2020"
+  },
+  {
+    "role": "user",
+    "content": "which instituition has the highest cgpa?"
+  },
+  {
+    "role": "assistant",
+    "content": "CGPA-Cumulative Grade Point Average ,FC - First Class, FWD - First Class with DistinctionB.Tech.\n\n---\n**📚 Source:** ug_aff_2020"
+  },
+  {
+    "role": "user",
+    "content": "what is the name of 311315251097"
+  },
+  {
+    "role": "assistant",
+    "content": "Classification\n\n---\n*📚 Source:* DSML"
+  }
+]
